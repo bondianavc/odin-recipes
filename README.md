@@ -1,1 +1,1 @@
-# odin-recipes
+"Build a basic receipt website"
